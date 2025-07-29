@@ -1,0 +1,9 @@
+@charset "UFT-8";
+/*Isto serve para prevenir erros de acentuação*/
+body {
+    /*background-image: linear-gradient(30deg, aquamarine,yellow);*/
+    background-image: radial-gradient(circle,#8BD9AD,aquamarine);
+}
+p {
+    color:rgb(5, 130, 88);
+}
